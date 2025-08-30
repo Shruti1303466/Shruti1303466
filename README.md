@@ -1,4 +1,4 @@
-# Hi there 👋  
+                    # Hi there 👋  
 
 I’m **Shruti**, an aspiring **Data Analyst** passionate about discovering insights from data.  
 I work with **Excel, MySQL, and Power BI** to transform raw data into meaningful dashboards and reports.  
