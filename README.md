@@ -14,13 +14,6 @@ I work with **Excel, MySQL, and Power BI** to transform raw data into meaningful
 
 - **Skills**: SQL queries (joins, window functions), Power BI dashboards, Excel
 - **Databases**: MySQL
-- **Tools**: Trello, Odoo CRM, UBS PMS
-
-## 📊 Top Projects
-
-- **CPI Inflation Analysis**  
-  Analyzed CPI data (2013-2023) across 27 categories, highlighting 20%+ inflation spikes in food/fuel during COVID-19 using Excel pivot tables.  
-  🔗 [Link](https://github.com/Shruti1303466/India_CPI_Inflation_Excel) | Tools: Advanced Excel
 
 👉 Check my repos for more data wizardry!
 
