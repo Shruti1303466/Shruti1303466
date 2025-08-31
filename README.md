@@ -26,5 +26,5 @@ I work with **Excel, MySQL, and Power BI** to transform raw data into meaningful
 
 ## 📬 Connect
 - Email: dixitshruti701@gmail.com
-- LinkedIn: [linkedin.com/in/shrutiDixit](www.linkedin.com/in/shruti-dixit-a790752a0)
+- LinkedIn:([www.linkedin.com/in/shruti-dixit-a790752a0](https://www.linkedin.com/in/shruti-dixit-a790752a0/))
 
